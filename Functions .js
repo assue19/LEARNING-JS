@@ -29,7 +29,14 @@ function divide(){
  var result = divide()
  console.log(result)
 
-
+function substract(){
+	var numberOne = 20;
+	var numberTwo = 10;
+	var answer = numberOne - numberTwo;
+	return answer
+}
+var result = substract()
+console.log(result)
 
 
 
