@@ -3,5 +3,5 @@ var shoeSize = [6,8,5,7,9,12,14]
 // get the length of array
 // console.log(student.length)
 
-for(i=0;i<student.length;i+=1)
+for(i=0;i<student.length;i++)
 	console.log(student[i])
